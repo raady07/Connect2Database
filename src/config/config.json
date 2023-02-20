@@ -1,8 +1,8 @@
 {
     "database": {
         "gnits": {
-            "user": "aiworkshop",
-            "password": "Gnits@123",
+            "user": "sample",
+            "password": "pass@123",
             "host": "x.x.x.x",
             "database": "masterworks"
         }
